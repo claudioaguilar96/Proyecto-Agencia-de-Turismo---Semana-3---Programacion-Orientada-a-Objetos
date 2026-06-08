@@ -12,8 +12,6 @@
 
 ## 📘 Descripción general del sistema
 
-# Proyecto-Agencia-de-Turismo---Semana-3---Programacion-Orientada-a-Objetos
-
 Llanquihue Tour — Sistema de gestión turística desarrollado en Java que modela operadores, guías y clientes mediante clases organizadas en paquetes, aplicando herencia, composición y encapsulamiento.
 
 ---
@@ -46,7 +44,7 @@ Carpeta Raiz
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Repositorio GitHub:** https://github.com/claudioaguilar96/Proyecto-Agencia-de-Turismo---Semana-3---Programacion-Orientada-a-Objetos
 **Fecha de entrega:** Junio 2026
 
 ---
